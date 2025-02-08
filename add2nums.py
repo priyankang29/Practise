@@ -15,3 +15,9 @@ product = num1 * num2
 
 #Display the product
 print("The product of {0} and {1} is {2}".format(num1, num2, product))
+
+#Subtract the two numbers
+difference = num1 - num2
+
+#Display the difference
+print("The difference of {0} and {1} is {2}".format(num1, num2, difference))
