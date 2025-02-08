@@ -21,3 +21,9 @@ difference = num1 - num2
 
 #Display the difference
 print("The difference of {0} and {1} is {2}".format(num1, num2, difference))
+
+#Power of the two numbers
+power = num1 ** num2
+
+#Display the power
+print("{0} raised to the power of {1} is {2}".format(num1, num2, power))
