@@ -26,8 +26,6 @@ print("The product of {0} and {1} is {2}".format(num1, num2, product))
 quotient = num1 / num2
 print("The quotient of {0} and {1} is {2}".format(num1, num2, quotient))
 
-
-
 #Power of the two numbers
 power = num1 ** num2
 
