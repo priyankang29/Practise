@@ -27,3 +27,7 @@ power = num1 ** num2
 
 #Display the power
 print("{0} raised to the power of {1} is {2}".format(num1, num2, power))
+
+#Square of a number
+square = num1 ** 2
+print("The square of {0} is {1}".format(num1, square))
