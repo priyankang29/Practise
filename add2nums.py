@@ -27,3 +27,7 @@ power = num1 ** num2
 
 #Display the power
 print("{0} raised to the power of {1} is {2}".format(num1, num2, power))
+
+#Divide the two numbers
+quotient = num1 / num2
+print("The quotient of {0} and {1} is {2}".format(num1, num2, quotient))
